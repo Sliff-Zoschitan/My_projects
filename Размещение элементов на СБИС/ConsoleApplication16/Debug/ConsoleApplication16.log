@@ -1,0 +1,9 @@
+﻿  ConsoleApplication16.cpp
+c:\users\сергей\desktop\новая папка\consoleapplication16\consoleapplication16\consoleapplication16.cpp(26): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\сергей\desktop\новая папка\consoleapplication16\consoleapplication16\consoleapplication16.cpp(38): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+c:\users\сергей\desktop\новая папка\consoleapplication16\consoleapplication16\consoleapplication16.cpp(39): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+c:\users\сергей\desktop\новая папка\consoleapplication16\consoleapplication16\consoleapplication16.cpp(40): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+c:\users\сергей\desktop\новая папка\consoleapplication16\consoleapplication16\consoleapplication16.cpp(41): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+c:\users\сергей\desktop\новая папка\consoleapplication16\consoleapplication16\consoleapplication16.cpp(55): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\сергей\desktop\новая папка\consoleapplication16\consoleapplication16\consoleapplication16.cpp(118): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ConsoleApplication16.vcxproj -> C:\Users\Сергей\Desktop\Новая папка\ConsoleApplication16\Debug\ConsoleApplication16.exe
